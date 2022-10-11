@@ -1,0 +1,4 @@
+command name:mkdir
+mkdir is used to create a new directroy
+syntax:mkdir<directroy name>
+example:mkdir linux
