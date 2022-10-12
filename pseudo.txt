@@ -1,0 +1,3 @@
+command :pseudo
+pseudo - run a command in a virtual root environment
+
