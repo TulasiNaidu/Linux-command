@@ -1,0 +1,3 @@
+command name :cat
+The cat command is a utility command in Linux. One of its most common usages is to print the content of a file onto the standard output stream.
+syntax : cat filename 
